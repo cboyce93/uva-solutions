@@ -1,3 +1,7 @@
+// UVa 482 - Permutation Arrays 
+// Cameron Boyce
+// 05/30/17
+
 #include <iostream>
 #include <sstream>
 #include <string>
